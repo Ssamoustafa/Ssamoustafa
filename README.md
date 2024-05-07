@@ -1,6 +1,6 @@
 ### Hi there 👋
 🔭 I’m currently working with Selenium and Java 21  
-🌱 I’m currently learning dealing with Shadow elements and optimizing reporting methods
+🌱 I’m learning dealing with Shadow elements and optimizing reporting methods
 👯 I’m looking to collaborate on challenging projects and gaining knowledge in design patterns
 💬 Ask me about OOP, Cypress and Testing techniques
 📫 Reach me on linkedin 
